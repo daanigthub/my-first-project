@@ -1,1 +1,2 @@
 # my-first-project
+This is version 1 of my document.
